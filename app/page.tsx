@@ -3,7 +3,7 @@ import React, { memo } from 'react'
 const Overview: Component = () => {
   return (
     <body>
-      <main>hey</main>
+      <main></main>
       <footer>fotter</footer>
     </body>
   )
