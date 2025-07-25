@@ -4,7 +4,7 @@ const Overview: Component = () => {
   return (
     <body>
       <main></main>
-      <footer>fotter</footer>
+      <footer>i love u</footer>
     </body>
   )
 }
