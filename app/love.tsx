@@ -1,7 +1,7 @@
 import React, { memo } from 'react';
 
 const love: React.FC = () => {
-  console.log('hello word')
+  console.log('山禾sb')
   return <></>;
 };
 
